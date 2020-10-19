@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'CocoapodProject'
+  s.name             = 'CocoapodProjectCircleImage'
   s.version          = '0.1.0'
   s.summary          = 'A CocoapodProject is for learning'
 
