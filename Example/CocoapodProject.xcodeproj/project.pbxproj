@@ -41,7 +41,7 @@
 		607FACE51AFB9204008FA782 /* CocoapodProject_Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CocoapodProject_Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
-		890D8C5097B9BD2D8F9ED4A2 /* CocoapodProject.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = CocoapodProject.podspec; path = ../CocoapodProject.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		890D8C5097B9BD2D8F9ED4A2 /* CocoapodProjectCircleImage.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = CocoapodProjectCircleImage.podspec; path = ../CocoapodProjectCircleImage.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		A4CF5D4ACAF8069A671B05FC /* Pods-CocoapodProject_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CocoapodProject_Example.release.xcconfig"; path = "Target Support Files/Pods-CocoapodProject_Example/Pods-CocoapodProject_Example.release.xcconfig"; sourceTree = "<group>"; };
 		B9E3462A3BA5DBBAFE573473 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		C93283768EBA8FAC071CE2B6 /* Pods-CocoapodProject_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CocoapodProject_Example.debug.xcconfig"; path = "Target Support Files/Pods-CocoapodProject_Example/Pods-CocoapodProject_Example.debug.xcconfig"; sourceTree = "<group>"; };
@@ -132,7 +132,7 @@
 		607FACF51AFB993E008FA782 /* Podspec Metadata */ = {
 			isa = PBXGroup;
 			children = (
-				890D8C5097B9BD2D8F9ED4A2 /* CocoapodProject.podspec */,
+				890D8C5097B9BD2D8F9ED4A2 /* CocoapodProjectCircleImage.podspec */,
 				FA164921349A14ECC5AEDB0D /* README.md */,
 				B9E3462A3BA5DBBAFE573473 /* LICENSE */,
 			);
